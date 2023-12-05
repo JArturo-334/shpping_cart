@@ -1,4 +1,4 @@
-# proyect2
+# proyect shopping cart
 
 A new Flutter project.
 
